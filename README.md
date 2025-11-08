@@ -7,6 +7,10 @@
   <img width="40.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
 </div>
 
+### 🐍 Minhas contribuições no GitHub
+
+![Snake animation](https://github.com/diegomoraespro/diegomoraespro/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
