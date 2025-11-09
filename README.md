@@ -1,6 +1,6 @@
-## Bem-vindo
+   # Bem-vindo
 
-## Contatos:
+ Contatos:
 <div>
 
 
@@ -12,7 +12,7 @@
        src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-## 📊 Estatísticas
+ 📊 Estatísticas
 
 <div align="center">
   <img width="44.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight"/>
