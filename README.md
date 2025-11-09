@@ -17,7 +17,8 @@
   
 </div>
 
-![Snake animation](https://github.com/diegomoraespro/diegomoraespro/blob/output/github-contribution-grid-snake.svg)
+![Snake dark](https://github.com/diegomoraespro/diegomoraespro/blob/output/snake-dark.svg)
+
 
 
 
