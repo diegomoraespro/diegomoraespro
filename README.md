@@ -1,6 +1,6 @@
-# Bem-vindo:
+Bem-vindo:
 
-### Contatos:
+Contatos:
 
 <div>
 <a href="https://instagram.com/diegomoraespro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,7 +12,7 @@
 </div>
 
 
-### Estatísticas:
+Estatísticas:
 
 <div align="center">
   <img width="44.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight"/>
