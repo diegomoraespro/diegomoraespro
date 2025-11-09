@@ -1,4 +1,4 @@
-## Seja bem-vindo ao meu perfil do GitHub 👋
+## Bem-vindo ao meu Github 
 
 ## 📊 Estatísticas do GitHub
 
