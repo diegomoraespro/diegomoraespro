@@ -16,7 +16,8 @@ Contatos:
 Estatísticas:
 
 <div align="center">
-  <img width="44.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="44.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600&v=1"/>
+
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
 </div>
