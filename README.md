@@ -16,10 +16,9 @@ Contatos:
 Estatísticas:
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="38%" src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight" />
 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight"/>
-  
+  <img width="50%" src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight" />
 </div>
 
 ![Snake dark](https://github.com/diegomoraespro/diegomoraespro/blob/output/snake-dark.svg)
