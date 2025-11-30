@@ -28,11 +28,9 @@
 
 
 <table style="solid #FFFFFF">
-  <tr>
     <td>
       <img src="https://github.com/diegomoraespro/diegomoraespro/raw/output/snake-dark.svg"/>
     </td>
-  </tr>
 </table>
 
 
