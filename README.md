@@ -38,9 +38,9 @@
 
 <div align="left">
   <img 
-    hspace="5" 
+    hspace="4" 
     src="https://i.imgur.com/arXqBWo.png" 
-    width="145"
+    width="155"
   />
 </div>
 
