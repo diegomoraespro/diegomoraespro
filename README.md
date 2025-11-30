@@ -32,8 +32,8 @@
     </td>
   </tr>
 </table>
-<div align="right">
-  <h3>Estatísticas</h3>
+<div align="left">
+  <h3>Estatísticas:</h3>
 </div>
 
 
