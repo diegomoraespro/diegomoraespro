@@ -27,9 +27,9 @@
 <br>
 
 
-<table width="90%",align="left", style="solid #FFFFFF">
+<table style="solid #FFFFFF">
   <tr>
-    <td>
+    <td width="90%" >
       <img src="https://github.com/diegomoraespro/diegomoraespro/raw/output/snake-dark.svg"/>
     </td>
   </tr>
