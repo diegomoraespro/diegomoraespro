@@ -16,9 +16,9 @@ Contatos:
 Estatísticas:
 
 <div align="center">
-  <img width="43%" src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight" />
+  <img width="42.8%" src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight" />
 
-  <img width="56.5%" src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight" />
+  <img width="56.1%" src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight" />
 </div>
 
 <br/>
