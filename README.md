@@ -37,7 +37,7 @@
 
 
 <div align="left">
-  <img src="https://i.imgur.com/xzezS7i.png" width="150">
+  <img src="https://i.imgur.com/arXqBWo.png" width="145">
 </div>
 
 
