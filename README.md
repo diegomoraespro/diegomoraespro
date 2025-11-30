@@ -17,6 +17,9 @@
   <p><em>Desenvolvedor Freelancer</em></p>
 </div>
 
+<br>
+</br>
+
 <div align="left">
   <img src="https://i.imgur.com/A2xHJ9Z.png" width="115">
 </div>
@@ -36,9 +39,6 @@
       <img src="https://github.com/diegomoraespro/diegomoraespro/raw/output/snake-dark.svg"/>
     </td>
 </table>
-
-<br>
-</br>
 
 <div align="left">
   <img
