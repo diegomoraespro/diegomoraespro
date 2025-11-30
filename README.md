@@ -37,11 +37,14 @@
 
 
 <div align="left">
-  <img src="https://i.imgur.com/arXqBWo.png" width="145">
+  <img 
+    hspace="5" 
+    src="https://i.imgur.com/arXqBWo.png" 
+    width="145"
+  />
 </div>
 
-
-<div align="left", style="margin: 0; padding: 0; border: 0">
+<div align="center", style="margin: 0; padding: 0; border: 0">
   <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight" width="42.6%"/>
   
   <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight" width="56%"/>
