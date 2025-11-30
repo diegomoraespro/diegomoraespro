@@ -21,8 +21,14 @@ Estatísticas:
   <img width="54%" src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight" />
 </div>
 
-![Snake dark](https://github.com/diegomoraespro/diegomoraespro/blob/output/snake-dark.svg)
-
+<br/>
+<table style="border: 10px solid #FFFFFF; border-radius: 5px; border-collapse: separate; border-spacing: 0;">
+  <tr>
+    <td align="center" style="border: 10px solid #FFFFFF; background-color: #f8f8f8; padding: 20px;">
+      <img src="https://github.com/diegomoraespro/diegomoraespro/raw/output/snake-dark.svg" alt="Animação Snake do Gráfico de Contribuições" style="display: block;"/>
+    </td>
+  </tr>
+</table>
 
 
 
