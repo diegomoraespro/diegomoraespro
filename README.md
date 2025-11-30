@@ -2,8 +2,6 @@
 </br>
 <br>
 </br>
-<br>
-</br>
 
 
 <div align="center">
@@ -13,11 +11,14 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="58"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="58"/>
 </div>
+
 <div align="center">
   <img src="https://i.imgur.com/fYwvtIK.png" width="400">
   <p><em>Desenvolvedor Freelancer</em></p>
 </div>
 
+<br>
+</br>
 
 <div align="left">
   <img src="https://i.imgur.com/A2xHJ9Z.png" width="115">
@@ -30,7 +31,7 @@
 <a href="https://www.linkedin.com/in/diegoaguiardemoraes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br>
+
 
 
 <table style="solid #FFFFFF">
@@ -39,6 +40,8 @@
     </td>
 </table>
 
+<br>
+</br>
 
 <div align="left">
   <img
