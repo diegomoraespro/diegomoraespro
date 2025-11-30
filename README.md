@@ -29,7 +29,7 @@
 
 <table style="solid #FFFFFF">
   <tr>
-    <td width="90%" >
+    <td>
       <img src="https://github.com/diegomoraespro/diegomoraespro/raw/output/snake-dark.svg"/>
     </td>
   </tr>
@@ -42,9 +42,9 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight" width="42.8%"/>
+  <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight" width="42.6%"/>
   
-  <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight" width="55.8%"/>
+  <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight" width="56%"/>
   
   
 </div>
