@@ -14,8 +14,10 @@
 
 
 <div align="left">
-  <h3>Contatos:</h3>
+  <img src="https://i.imgur.com/7wE9wuB.png" width="115">
 </div>
+
+
 <div>
 <a href="https://discordapp.com/users/diegomoraespro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href = "mailto:diegoaguiardemoraes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,8 +34,10 @@
     </td>
   </tr>
 </table>
+
+
 <div align="left">
-  <h3>Estatísticas:</h3>
+  <img src="https://i.imgur.com/xzezS7i.png" width="150">
 </div>
 
 
