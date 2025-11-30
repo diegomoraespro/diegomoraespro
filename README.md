@@ -22,10 +22,10 @@ Estatísticas:
 </div>
 
 <br/>
-<table style="border: 10px solid #FFFFFF; border-radius: 5px; border-collapse: separate; border-spacing: 0;">
+<table style="solid #FFFFFF">
   <tr>
-    <td align="center" style="border: 10px solid #FFFFFF; background-color: #f8f8f8; padding: 20px;">
-      <img src="https://github.com/diegomoraespro/diegomoraespro/raw/output/snake-dark.svg" alt="Animação Snake do Gráfico de Contribuições" style="display: block;"/>
+    <td>
+      <img src="https://github.com/diegomoraespro/diegomoraespro/raw/output/snake-dark.svg"/>
     </td>
   </tr>
 </table>
