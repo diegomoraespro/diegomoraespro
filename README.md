@@ -42,11 +42,8 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight" width="42.6%"/>
-  
-  <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight" width="56%"/>
-  
-  
+  <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800" width="42.6%"/>
+  <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight&cache_seconds=1800" width="56%"/>
 </div>
 
 
