@@ -46,11 +46,7 @@
 
 <div align="left">
   <img src="https://i.imgur.com/arXqBWo.png" width="155"/>
-</div>
-
-
-
-
+  
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="41%" align="center">
@@ -61,8 +57,8 @@
       </td>
     </tr>
   </table>
- 
-
+  
+</div>
 
 
 
