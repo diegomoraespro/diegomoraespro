@@ -51,10 +51,10 @@
 
 <div align="center"> <table>
     <tr>
-      <td width="42.6%" align="center">
+      <td width="43.95%" align="center">
         <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800" />
       </td>
-      <td width="54.7%" align="center">
+      <td width="56.05%" align="center">
         <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight&cache_seconds=1800" />
       </td>
     </tr>
