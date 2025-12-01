@@ -57,7 +57,7 @@
         <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api/top-langs/?username=diegomoraespro&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800" />
       </td>
       <td width="20%" align="center">
-        <img src="https://i.imgur.com/vSPfEXE.png"/>
+        <img src="https://i.imgur.com/8e0ZfjG.png"/>
       </td>
       <td width="40%" align="center">
         <img src="https://github-readme-stats-dusky-beta-74.vercel.app/api?username=diegomoraespro&show_icons=true&theme=tokyonight&cache_seconds=1800" />
