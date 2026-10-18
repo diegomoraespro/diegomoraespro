@@ -7,15 +7,6 @@
 
 
 <div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="38"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="28"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="38"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="38"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="38"/>
- <img src="https://imgur.com/s5I4Ze8" height="38"/>
-</div>
-
-<div align="center">
   <img src="https://i.imgur.com/fYwvtIK.png" width="400">
   <p><em>Desenvolvedor Freelancer</em></p>
 </div>
