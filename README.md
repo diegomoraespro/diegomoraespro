@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://i.imgur.com/fYwvtIK.png" width="400">
-  <p><em>Desenvolvedor Freelancer</em></p>
+  <h1><em>Desenvolvedor Freelancer</em></h1>
 </div>
 
 <br>
