@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://i.imgur.com/fYwvtIK.png" width="400">
+  <img src="https://i.imgur.com/fYwvtIK.png" width="600">
   <h1><em>Desenvolvedor Freelancer</em></h1>
 </div>
 
